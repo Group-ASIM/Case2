@@ -91,12 +91,12 @@ Avgränsningar:
 - Riskanalys
 
 	Sannolikhet
-	Osannolik = 1	Avlägsen = 2	Möjlig = 3	Trolig = 4	Mycket trolig = 5
-Katastrofal = 5	5	10	15	20	25
-Mycket allvarlig = 4	4	8	12	16	20
-Allvarlig = 3	3	6	9	12	15
-Marginell = 2	2	4	6	8	10
-Obetydlig = 1	1	2	3	4	5
+	                Osannolik = 1	Avlägsen = 2	Möjlig = 3	Trolig = 4	Mycket trolig = 5
+    Katastrofal = 5	        5	      10	       15	           20	         25
+    Mycket allvarlig = 4	4	       8	       12	           16	         20
+    Allvarlig = 3	        3	       6	       9	           12	         15
+    Marginell = 2	        2	       4	       6	           8	         10
+    Obetydlig = 1	        1	       2	       3	           4	          5
 
 
 Risk	Sannolikhet	Konsekvens	Prioritet

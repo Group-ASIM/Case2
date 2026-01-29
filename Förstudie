@@ -26,9 +26,16 @@ Vi har fått i uppdrag av Högskolan Väst  Enligt högskolans egna statistik s�
 2.2 Rekommendation
 Rekommendationen är att starta projektet enligt Scrum-ramverket med fokus på MVP.
 
+Rekommendationen är att starta projektet enligt Scrum-ramverket med fokus på MVP.
 Efter genomförd förstudie så rekommenderar vi för Högskolan Väst följande åtgärder för att skapa en egen app för förbeställning av skolmat.
 
 Primär rekommendation: Egenutvecklad app för förbeställning av mat. 
+
+Utvecklingstiden uppskattas ta ca 6 månader för ett grundläggande förbeställningssystem.
+
+Uppföljning och utvärdering
+Vi rekommenderar att appens effekter utvärderas efter implementering för att säkerställa att mål och förväntade nyttor realiseras för campusrestaurangen.
+
 
 3. Upplevt problem och mål
 Projektet adresserar ett identifierat verksamhetsproblem.
@@ -39,6 +46,7 @@ Ekonomisk konsekvens: Försäljningen har gått ner med 15% på grund av långa 
 Konkurrenskonsekvens: Det finns 3–4 företag i området som redan erbjuder förbeställning via telefon eller app. Det finns även leveransföretag som Wolt, 
 Foodora med mera där man kan förbeställa från flera restauranger i området. Högskolans campusrestaurang riskerar därför att förlora kunder till konkurrenter 
 med förbeställning som alternativ.
+
 
 Produktmål (Product Goal):
 [Beskriv övergripande mål]

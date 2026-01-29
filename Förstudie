@@ -68,9 +68,25 @@ Avgränsningar:
 4. Undersökning, analys och förstudieresultat
 - Intressentintervjuer
 - Identifiering av användarbehov
+
 -Funktionella krav (prioriterade):
+   - Krav på registrering av bankkort
+   - Visa en meny med innehållsförteckning per maträtt. (Tydliga allergivarningar)
+   - Krav på registrering av bankkort
+   - Krav på registrering av telefonnummer alternativt epost för kvittoutskick och bekräftelse.
+   - Automatiskt utskick av kvitto och bekräftelse
+   - Kunna förbeställa mat   
+   - Möjlighet att avbryta beställning innan restaurang har accepterat beställning 
+   
+   - Synkronisering med en display/system i restaurangen så köksperonal kan se beställningar
+   - Inventariesystem som automatiskt hanterar mängd av produkt tillgänglig. Visar "tillfälligt slut" till kund om det inte finns att betälla. 
+   - Visar kund förväntad tillagninstid, när maten är redo att hämtas
+   - Restaurang ska kunna hantera menyn manuellt efter behov
+
 -Icke-funktionella krav:
-- Grova estimat
+   - Prestanda (fungerar på äldre hårdvara)
+   - Kompatibilitet med andra system än mobiltelefoner (smartphones)
+   - Användarvänlighet (lätt att navigera i meny)
  
 - Riskanalys
 

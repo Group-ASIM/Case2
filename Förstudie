@@ -1,0 +1,76 @@
+Förstudie
+Projektnamn: [Projektets namn]
+Produktägare (PO): [Namn]
+Scrum Master: [Namn]
+Projektperiod (förstudie): [Fr.o.m – t.o.m]
+
+1. Bakgrund och nuläge
+1.1 Bakgrund
+Förstudien syftar till att undersöka om projektets problemområde är lämpligt att hanteras med Scrum. Fokus ligger på att förstå verksamhetsbehov, osäkerheter och förutsättningar för iterativ utveckling.
+Högskolan Väst har vid nuläget 8000 studenter och har fått problem i campusrestaurangen med mycket långa köer vid lunch vilket leder till strul för eleverna och att de hellre väljer att äta någon annanstans.
+Enligt uppgift från verksamheten så har väntetid i restaurangen tidigare varit i snitt 15 min men snittet på väntetiden har nu gått upp till ungefär 30 min. De har tidigare haft i snitt 1280 elever som äter per dag 
+i restaurangen och nu har de tappat ungefär 15% i försäljning och har nu i snitt 1080 elever som äter i matsalen per dag. Det finns flera restauranger i närheten av högskolan och eleverna väljer i stället att gå till 
+dom på grund av de långa väntetiderna. 
+
+
+1.2 Nuläge
+Nuvarande arbetssätt och systemstöd beskrivs. Identifierade brister och förändringar sammanställs som underlag för produktvisionen.
+
+2. Sammanfattning och rekommendation
+2.1 Sammanfattning
+Förstudien visar att kraven är föränderliga och att lösningen behöver utvecklas stegvis med kontinuerlig feedback.
+
+Vi har fått i uppdrag av Högskolan Väst  Enligt högskolans egna statistik så har campus restaurangens väntetider ökat och försäljningen har minskat.
+
+
+2.2 Rekommendation
+Rekommendationen är att starta projektet enligt Scrum-ramverket med fokus på MVP.
+
+3. Upplevt problem och mål
+Projektet adresserar ett identifierat verksamhetsproblem.
+[Upplevt problem]
+
+Produktmål (Product Goal):
+[Beskriv övergripande mål]
+
+Effektmål:
+[Mätbara effekter över tid]
+
+Avgränsningar:
+[Vad ska INTE göras]
+
+4. Undersökning, analys och förstudieresultat
+- Intressentintervjuer
+- Identifiering av användarbehov
+-Funktionella krav (prioriterade):
+-Icke-funktionella krav:
+- Grova estimat
+ 
+- Riskanalys
+
+	Sannolikhet
+	Osannolik = 1	Avlägsen = 2	Möjlig = 3	Trolig = 4	Mycket trolig = 5
+Katastrofal = 5	5	10	15	20	25
+Mycket allvarlig = 4	4	8	12	16	20
+Allvarlig = 3	3	6	9	12	15
+Marginell = 2	2	4	6	8	10
+Obetydlig = 1	1	2	3	4	5
+
+
+Risk	Sannolikhet	Konsekvens	Prioritet
+			
+			
+			
+
+
+
+Resultatet utgör underlag för en initial Product Backlog.
+
+5. Rekommendationer och fortsatt arbete
+
+5.1 Rekommendationer
+Projektet bör genomföras enligt Scrum med dedikerade roller och iterativ leverans.
+
+5.2 Förslag till fortsatt arbete
+- Etablera Scrum-roller
+

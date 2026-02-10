@@ -1,112 +1,178 @@
 Förstudie
-Projektnamn: [Projektets namn]
-Produktägare (PO): Ida Hägglund
-Scrum Master: [Namn]
-Projektperiod (förstudie): [Fr.o.m – t.o.m]
+
+Projektnamn: 		[Rostmacka]
+Produktägare: 		[Ida Hägglund]
+Scrum Master: 		[Anja Sorensen]
+Projektperiod (förstudie): 	[26 Jan 2026 - 13 Feb 2026]
+
 
 1. Bakgrund och nuläge
+
 1.1 Bakgrund
-Förstudien syftar till att undersöka om projektets problemområde är lämpligt att hanteras med Scrum. Fokus ligger på att förstå verksamhetsbehov, osäkerheter och förutsättningar för iterativ utveckling.
-Högskolan Väst har vid nuläget 8000 studenter och har fått problem i campusrestaurangen med mycket långa köer vid lunch vilket leder till strul för eleverna och att de hellre väljer att äta någon annanstans.
-Enligt uppgift från verksamheten så har väntetid i restaurangen tidigare varit i snitt 15 min men snittet på väntetiden har nu gått upp till ungefär 30 min. De har tidigare haft i snitt 1280 elever som äter per dag 
-i restaurangen och nu har de tappat ungefär 15% i försäljning och har nu i snitt 1080 elever som äter i matsalen per dag. Det finns flera restauranger i närheten av högskolan och eleverna väljer i stället att gå till 
-dom på grund av de långa väntetiderna. 
+
+Förstudien syftar till att undersöka om projektets problemområde är lämpligt att hantera med Scrum. Fokus ligger på att förstå verksamhetens behov, osäkerheter och förutsättningar för iterativ utveckling.
+
+Högskolan Väst (ca 8000 studenter) har fått problem med mycket långa köer vid lunch i Restaurang Västan, vilket leder till att eleverna väljer att äta någon annanstans. Enligt uppgift från verksamheten så har väntetiden i restaurangen tidigare varit i snitt 15 min, men snittet har nu gått upp till 30 min. 
+De har tidigare haft ca 1280 elever i restaurangen dagligen. 
+Nu har de tappat ungefär 15% i försäljning och i snitt 1080 elever äter i matsalen per dag. 
+Det finns flera konkurrerande restauranger i närheten av högskolan och eleverna väljer i stället att gå till dessa på grund av de långa väntetiderna. 
 
 
 1.2 Nuläge
-Nuvarande arbetssätt och systemstöd beskrivs. Identifierade brister och förändringar sammanställs som underlag för produktvisionen.
 
-I nuläget så arbetar campusrestaurangen på Högskola Väst endast med ett traditionellt kösystem med två kassor 
+Nuvarande arbetssätt och systemstöd beskrivs. Identifierade brister och förändringar sammanställs som underlag för produkt-visionen.
+
+I nuläget så bedrivs campus restaurangen vid Högskolan Väst endast med ett traditionellt, manuellt kösystem där all beställning och betalning sker på plats.
+Restaurangen har idag två kassor för hantering av kunder, vilket utgör den enda kapaciteten för kundkontakt och betalning under rusningstid.
+
+Det finns i nuläget inga digitala stödsystem för:
+•	Förbeställning av mat
+•	Köhantering
+•	Digital betalning före upphämtning
+•	Tidsbokning för upphämtning
+•	Lager- eller inventariehantering
+
+
+All hantering av kunder måste skötas manuellt av restaurangens personal, vilket leder till flaskhalsar vid kassorna, långa väntetider för kunder, stressig arbetsmiljö för kökspersonal
+och förlorade intäkter på grund av tapp av kunder.
+
+Restaurangens nuvarande arbetssätt är inte skalbart i relation till antalet studenter och det ökade trycket under lunchtider. De har ingen digital kanal för kundhantering utan allting
+sker fysiskt på plats, vilket gör att kundflödet blir ohanterligt under hög belastningstid.
+
+Detta innebär att restaurangen i nuläget saknar förutsättningarna för att hantera hög belastning av kunder, minska tappad försäljning och möta konkurrens från andra aktörer med digitala förbeställningslösningar.
+Därmed finns det ett tydligt behov för campus restaurangen att ha en digital, skalbar och användarvänlig lösning som kan avlasta kassaflödet och skapa ett mer effektivt och hållbart arbetssätt som gynnar både kunder och personal.
+
 
 2. Sammanfattning och rekommendation
+
 2.1 Sammanfattning
+
 Förstudien visar att kraven är föränderliga och att lösningen behöver utvecklas stegvis med kontinuerlig feedback.
-
-Vi har fått i uppdrag av Högskolan Väst  Enligt högskolans egna statistik så har campus restaurangens väntetider ökat och försäljningen har minskat.
-
+Vi har fått i uppdrag av Högskolan Väst att utveckla en mobilapplikation som hanterar förbeställningar av mat i Restaurang Västan. Denna förstudie har genomförts för att analysera Högskolan Väst campus restaurangs nuvarande situation och bedöma ifall det är lämpligt att införa en digital lösning för förbeställning. Bakgrunden till projektet är att restaurangen har fått ökade väntetider under lunchrusningen, från tidigare cirka 15 minuter till nuvarande cirka 30 minuter. Detta har resulterat i att restaurangen tappat cirka 15 % av sina kunder, motsvarande en minskning från cirka 1280 till 1080 dagliga gäster. Samtidigt har konkurrensen från närliggande restauranger med möjlighet till förbeställning ökat.
+Nulägesanalysen visar att restaurangen idag använder ett helt manuellt arbetssätt med endast två kassor och saknar digitala stödsystem för förbeställning, köhantering, tidsbokning och digital betalning före upphämtning. Detta skapar flaskhalsar i kundflödet, långa väntetider, ökad arbetsbelastning för personalen samt ekonomiska förluster.
+Förstudien identifierar att verksamheten har ett tydligt behov av en digital lösning som möjliggör förbeställning av mat via en mobilapplikation. En sådan lösning förväntas förbättra kundupplevelsen, minska köbildning, effektivisera restaurangens arbetsprocesser samt bidra till att återta förlorad försäljning och stärka restaurangens konkurrenskraft.
+Analysen visar att projektets kravbild innehåller osäkerheter och kan komma att förändras under utvecklingens gång, vilket gör Scrum till en lämplig utvecklingsmetod. Scrum möjliggör en iterativ och flexibel utvecklingsprocess där funktionalitet kan utvecklas stegvis och anpassas baserat på kontinuerlig feedback från verksamheten och användarna.
+Förstudien ger ett tydligt underlag för att påbörja projektet med målet att utveckla en mobilapplikation för förbeställning av mat. Lösningen förväntas effektivisera restaurangens arbetsprocesser, minska väntetiderna, förbättra kundupplevelsen och stärka restaurangens ekonomiska och konkurrensmässiga position.
 
 2.2 Rekommendation
-Rekommendationen är att starta projektet enligt Scrum-ramverket med fokus på MVP.
 
 Rekommendationen är att starta projektet enligt Scrum-ramverket med fokus på MVP.
 Efter genomförd förstudie så rekommenderar vi för Högskolan Väst följande åtgärder för att skapa en egen app för förbeställning av skolmat.
 
-Primär rekommendation: Egenutvecklad app för förbeställning av mat. 
+Primär rekommendation: 
+Egenutvecklad app för förbeställning av mat hos Restaurang Västan. 
 
-Utvecklingstiden uppskattas ta ca 6 månader för ett grundläggande förbeställningssystem.
+Estimerad Tidsåtgång
+6 månader för ett grundläggande förbeställnings-system.
 
 Uppföljning och utvärdering
-Vi rekommenderar att appens effekter utvärderas efter implementering för att säkerställa att mål och förväntade nyttor realiseras för campusrestaurangen.
+Vi rekommenderar att appens effekter utvärderas efter implementering för att säkerställa att mål och förväntade nyttan realiseras för restaurangen.
 
 
 3. Upplevt problem och mål
-Projektet adresserar ett identifierat verksamhetsproblem.
-[Upplevt problem]
 
-Ekonomisk konsekvens: Försäljningen har gått ner med 15% på grund av långa väntetider och ingen möjlighet till förbeställning.
+3.1 Upplevda problem
 
-Konkurrenskonsekvens: Det finns 3–4 företag i området som redan erbjuder förbeställning via telefon eller app. Det finns även leveransföretag som Wolt, 
-Foodora med mera där man kan förbeställa från flera restauranger i området. Högskolans campusrestaurang riskerar därför att förlora kunder till konkurrenter 
-med förbeställning som alternativ.
+Ekonomisk konsekvens: 
+Försäljningen har gått ner med 15% på grund av långa väntetider och ingen möjlighet till förbeställning.
 
+Konkurrenskonsekvens: 
+Det finns 3–4 företag i området som redan erbjuder förbeställning via telefon eller app. 
+Det finns även leveransföretag som Wolt, Foodora m.m. där man kan förbeställa från flera restauranger i området. Högskolans restaurang riskerar därför att förlora kunder till konkurrenter med förbeställning som alternativ.
 
-Produktmål (Product Goal):
-[Beskriv övergripande mål]
-Produkten kommer utvecklas som en mobil app. Appen kommer ha följande:
-- Användaren ska kunna se menyn och vad som är dagens rätt.
-- Ska kunna välja en rätt och boka vilken tid som användaren ska hämta upp den.
+3.2 Produktmål
 
-Effektmål:
-[Mätbara effekter över tid]
+Produkten kommer utvecklas för Android och iOS. 
+Appen kommer ha följande:
+Användaren ska kunna se menyn och vad som är dagens rätt.
+Användaren ska kunna välja ett tidsspann då maten är färdig att upphämtas.
+Kund vill att appen följer skolans standard för utseende (typsnitt, färgval, logotyp)
+
+3.3 Effektmål
 
 Avgränsningar:
-•	Ingen utveckling av system för erbjudande, rabatter eller medlemsbonus.
-•	Inget system som för medlemskap.
-•	Inget system för notifikationer eller e-postutskick.
-•	Endast utveckling av app. Inte utveckling av webbsida med samma funktioner.
+•    Inget system för erbjudande, rabatter eller medlemsbonus.
+•    Inget system för medlemskap.
+•    Inget system för notifikationer eller e-postutskick utöver kvitton och beställnings bekräftelser.
+•    Endast utveckling av app för Android och iOS. Ingen utveckling av webbsida.
 
-4. Undersökning, analys och förstudieresultat
-- Intressentintervjuer
-- Identifiering av användarbehov
 
--Funktionella krav (prioriterade):
-   - Krav på registrering av bankkort
-   - Visa en meny med innehållsförteckning per maträtt. (Tydliga allergivarningar)
-   - Krav på registrering av bankkort
-   - Krav på registrering av telefonnummer alternativt epost för kvittoutskick och bekräftelse.
-   - Automatiskt utskick av kvitto och bekräftelse
-   - Kunna förbeställa mat   
-   - Möjlighet att avbryta beställning innan restaurang har accepterat beställning 
-   
-   - Synkronisering med en display/system i restaurangen så köksperonal kan se beställningar
-   - Inventariesystem som automatiskt hanterar mängd av produkt tillgänglig. Visar "tillfälligt slut" till kund om det inte finns att betälla. 
-   - Visar kund förväntad tillagninstid, när maten är redo att hämtas
-   - Restaurang ska kunna hantera menyn manuellt efter behov
+4. Undersökning, analys och förstudie-resultat
 
--Icke-funktionella krav:
-   - Prestanda (fungerar på äldre hårdvara)
-   - Kompatibilitet med andra system än mobiltelefoner (smartphones)
-   - Användarvänlighet (lätt att navigera i meny)
+4.1 Intressent-intervjuer
+
+
+4.2 Identifiering av användarbehov
+
+
+4.3 Funktionella krav
+Krav på registrering av bankkort
+Visa en meny med innehållsförteckning per maträtt. (Tydliga allergi-varningar)
+Krav på registrering av bankkort
+Krav på registrering av telefonnummer, alternativt e-post för utskick av beställnings-bekräftelse och digitalt kvitto
+Automatiskt utskick av kvitto och bekräftelse
+Kunna förbeställa mat   
+Möjlighet att avbryta beställning innan restaurang har accepterat beställning 
+Synkronisering med en display/system i restaurangen så kökspersonal kan se beställningar
+Inventariesystem som automatiskt hanterar antal produkter tillgängliga. Visar "tillfälligt slut" till användaren om det inte finns att beställa
+Visar användaren förväntad tillagningstid, när maten är redo att hämtas
+Restaurang ska kunna hantera menyn manuellt efter behov
+
+4.4 Icke-funktionella krav
+Prestanda (fungerar på äldre hårdvara)
+Kompatibilitet med andra system än mobiltelefoner (smartphones)
+Användarvänlighet (lätt att navigera i meny)
  
-- Riskanalys
 
-	
-                       Osannolik = 1	Avlägsen = 2	Möjlig = 3	Trolig = 4	Mycket trolig = 5    [Sannolikhet]
-    Katastrofal = 5	        5	          10	          15	           20	         25
-    Mycket allvarlig = 4	4	          8	              12	           16	         20
-    Allvarlig = 3	        3	          6	               9	           12	         15
-    Marginell = 2	        2	          4	               6	           8	         10
-    Obetydlig = 1	        1	          2	               3	           4	          5
-    [Konsekvens]
+4.3 Riskanalys
 
-Risk                                         Sannolikhet	          Konsekvens	          Prioritet
-			
-Nyckelperson försvinner			
-Produkten motsvarar inte förväntningarna			
+[Sannolikhet]
 
 
+Osannorlik = 1
+Avlägsen = 2 
+Möjlig = 3
+Trolig = 4
+Mycket trolig = 5
+Katastrofal = 5
+5
+10
+15
+20
+25
+Mycket allvarlig = 4 
+4
+8
+12
+16
+20
+Allvarlig = 3 
+3
+6
+9
+12
+15
+Marginell = 2
+2
+4
+6
+8
+10
+Obetydlig = 1 
+1
+2
+3
+4
+5
+[Konsekvens]
+Identifierade risker:
 
-Resultatet utgör underlag för en initial Product Backlog.
+Nyckelperson försvinner            
+Produkten motsvarar inte förväntningarna      
+
+
+Resultatet utgör underlag för en Initial Product Backlog.
+
 
 5. Rekommendationer och fortsatt arbete
 
@@ -114,5 +180,4 @@ Resultatet utgör underlag för en initial Product Backlog.
 Projektet bör genomföras enligt Scrum med dedikerade roller och iterativ leverans.
 
 5.2 Förslag till fortsatt arbete
-- Etablera Scrum-roller
-
+Etablera Scrum-roller
